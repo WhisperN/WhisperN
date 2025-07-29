@@ -1,6 +1,5 @@
-### 👋 Hi, I’m @WhisperN
-
-###
+## 👋 Hi, I’m @WhisperN
+---
 
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="25" alt="javascript logo" />
@@ -16,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" width="25" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" width="25" alt="arduino logo"  />
 </p>
+
+## About me
 
 📚 Currently enrolled at UZH Informatics.
 
