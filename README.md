@@ -25,7 +25,6 @@
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="arduino logo"  />
 </p>
-###
 
 📚 Currently enrolled at UZH Informatics.
 
