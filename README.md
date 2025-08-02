@@ -36,6 +36,7 @@ BSc Thesis: _Scaling Interactive Web-based Data Analysis and Visualization to La
 ###
 
 🏖️ **Personal Projects IoT**
+
 _Automated room with embedded sleep tracking sensors_
 
 ###
