@@ -16,12 +16,13 @@
 </p>
 
 ## About me
+<br />
 
-📚 Currently enrolled at UZH Informatics.
+UZH Informatics, Software Systems
 
 ###
 
-🎯 **Personal interests**
+**Personal interests**
 - Embedded systems
 - Hardware programming
 - Web development
@@ -29,15 +30,20 @@
 
 ###
 
-🚀 **Currently working on**
+**Currently working on**
 
-BSc Thesis: _Scaling Interactive Web-based Data Analysis and Visualization to Large Data_
+Autonomus Drones: Autonomous TPP drone pilot
 
 ###
 
-🏖️ **Personal Projects IoT**
+**Personal Projects IoT**
 
-_Automated room with embedded sleep tracking sensors_
+###
+
+Previous Projects
+<br />
+
+TODO
 
 ###
 
