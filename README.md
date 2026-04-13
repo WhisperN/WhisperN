@@ -40,7 +40,7 @@ Autonomus Drones: Autonomous TPP drone pilot
 
 ###
 
-Previous Projects
+### Previous Projects
 <br />
 
 TODO
