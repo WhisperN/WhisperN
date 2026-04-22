@@ -1,4 +1,4 @@
-![image](bckGrnd_1.png)
+![image](bckGrnd_2.png)
 
 ## About me
 <br />
