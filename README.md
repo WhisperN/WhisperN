@@ -18,6 +18,7 @@ I am a software developer from switzerland.
 **Currently working on**
 
 Autonomus Drones: Autonomous TPP drone pilot
+
 MCXN 947: Real time voice keyword search
 
 ###
