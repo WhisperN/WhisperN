@@ -1,4 +1,4 @@
-<img src="bckGrnd_3.png" width="900" height="600"/>
+<img src="bckGrnd_4.png" width="900" height="600"/>
 
 ## About me
 <br />
