@@ -1,4 +1,4 @@
-![image](bckGrnd_2.png)
+<img src="bckGrnd_2.png" width="900" height="600"/>
 
 ## About me
 <br />
