@@ -3,7 +3,7 @@
 ## About me
 <br />
 
-UZH Informatics, Software Systems
+I am a software developer from switzerland.
 
 ###
 
@@ -18,17 +18,15 @@ UZH Informatics, Software Systems
 **Currently working on**
 
 Autonomus Drones: Autonomous TPP drone pilot
+MCXN 947: Real time voice keyword search
 
 ###
 
-**Personal Projects IoT**
-
 ###
 
-### Previous Projects
+## Previous Projects
 <br />
 
-TODO
 
 ###
 
