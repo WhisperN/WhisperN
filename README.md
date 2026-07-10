@@ -37,7 +37,3 @@ Key findings: h1 or h2 does not make a diffrence. For the frontend WASM performe
 
 ###
 
-<img src="https://raw.githubusercontent.com/WhisperN/WhisperN/output/snake.svg" alt="Snake animation" />
-
-###
-
