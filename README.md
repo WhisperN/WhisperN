@@ -3,7 +3,7 @@
 ## About me
 <br />
 
-I am a software developer from switzerland.
+I am a software developer from Switzerland.
 
 ###
 
